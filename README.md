@@ -4,7 +4,7 @@
 <br>
 <p>Este projeto foi criado para colocar em prática os conhecimentos adquiridos nos cursos de HTML, CSS e JavaScript do <b>DevClub</b>, de um projeto <b>Front-end Web</b>.</p>
 
-<p>O objetivo do projeto foi desenvolver um sorteador de números, no qual é possivel sortear diversos números onde o resutado sera exibido na tela. Utilizando as tecnologias simples como <b>HTML, CSS e JavaScript</b>, e as técnicas da Responsividade com Media Queries.</p>
+<p>O objetivo do projeto foi desenvolver um sorteador de números, no qual é possivel sortear diversos números onde o resultado será exibido na tela. Utilizando as tecnologias simples como <b>HTML, CSS e JavaScript</b>, e as técnicas da Responsividade com Media Queries.</p>
 
 <h2>Layout do projeto</h2>
 <h3>Desktop</h3>
