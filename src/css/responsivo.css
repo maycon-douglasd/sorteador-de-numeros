@@ -1,0 +1,25 @@
+@media  screen and (max-width: 500px) {
+    header img {
+        margin-top: 15px;
+    }
+
+    .input-group input {
+        width: 150px;
+        height: 40px;
+    }
+}
+
+@media  screen and (max-width: 360px) {
+    header img {
+        margin-top: 15px;
+    }
+
+    header h2 {
+        font-size: 25px;
+    }
+
+    .input-group input {
+        width: 140px;
+        height: 40px;
+    }
+}
